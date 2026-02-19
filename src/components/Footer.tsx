@@ -38,7 +38,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <Link to="/" className="text-xl font-bold tracking-tight text-foreground">
-              FIRMA<span className="text-muted-foreground">GROUP</span>
+              <img src="/logo.png" alt="Logo" className="h-30 w-140"/>
             </Link>
             <p className="text-sm text-muted-foreground mt-4 leading-relaxed">
               Profesionalno rješavanje poslovnih izazova u regionu i Evropskoj uniji.
