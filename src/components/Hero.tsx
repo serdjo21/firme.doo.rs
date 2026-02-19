@@ -19,7 +19,7 @@ const Hero = () => {
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
             <p className="text-sm font-medium tracking-[0.3em] uppercase text-muted-foreground mb-8">
-              Profesionalno rješavanje poslovnih izazova
+              Profesionalno rešavanje poslovnih izazova
             </p>
           </motion.div>
 
@@ -29,7 +29,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.15, ease: "easeOut" }}
             className="text-5xl md:text-7xl lg:text-8xl font-bold leading-[0.95] tracking-tight text-foreground mb-8"
           >
-            Rješenje za firme
+            Rešenje za firme
             <br />
             <span className="text-gradient">u blokadi.</span>
           </motion.h1>

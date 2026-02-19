@@ -12,15 +12,15 @@ const posts = [
     featured: true,
   },
   {
-    title: "5 koraka do osnivanja firme u Njemačkoj",
-    excerpt: "Praktičan pregled procesa osnivanja GmbH u Njemačkoj za preduzetnike iz regiona.",
+    title: "5 koraka do osnivanja firme u Nemačkoj",
+    excerpt: "Praktičan pregled procesa osnivanja GmbH u Nemačkoj za preduzetnike iz regiona.",
     date: "28. Dec 2023",
     tag: "EU",
     slug: "osnivanje-firme-njemacka",
   },
   {
     title: "Restrukturiranje duga: Šta trebate znati",
-    excerpt: "Osnove restrukturiranja duga i kako pristupiti pregovorima sa povjeriocima.",
+    excerpt: "Osnove restrukturiranja duga i kako pristupiti pregovorima sa poveriocima.",
     date: "10. Dec 2023",
     tag: "Edukacija",
     slug: "restrukturiranje-duga",

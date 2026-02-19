@@ -8,7 +8,7 @@ interface CTAProps {
 }
 
 const CTA = ({
-  title = "Riješite firmu i dugovanja u roku od 7 dana.",
+  title = "Rešite firmu i dugovanja u roku od 7 dana.",
   buttonText = "Kontaktirajte nas",
   buttonLink = "/kontakt",
 }: CTAProps) => {

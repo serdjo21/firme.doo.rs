@@ -22,7 +22,7 @@ const ContactForm = () => {
           <Check size={24} className="text-background" />
         </div>
         <h3 className="text-xl font-semibold text-foreground mb-2">Poruka je poslana</h3>
-        <p className="text-sm text-muted-foreground">Javit ćemo vam se u najkraćem roku.</p>
+        <p className="text-sm text-muted-foreground">Javiti ćemo vam se u najkraćem roku.</p>
       </motion.div>
     );
   }

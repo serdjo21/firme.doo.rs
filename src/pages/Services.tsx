@@ -3,10 +3,10 @@ import ServiceCard from "@/components/ServiceCard";
 import CTA from "@/components/CTA";
 
 const services = [
-  { title: "Preuzimanje firmi u blokadi", description: "Kompletno preuzimanje firmi sa dugovima, blokadama i sudskim sporovima. Rješavamo sve obaveze prema bankama i dobavljačima.", slug: "preuzimanje-firmi" },
-  { title: "Prodaja firmi", description: "Profesionalna prodaja vaše firme po optimalnoj cijeni. Kompletna priprema dokumentacije i pronalazak kupca.", slug: "prodaja-firmi" },
+  { title: "Preuzimanje firmi u blokadi", description: "Kompletno preuzimanje firmi sa dugovima, blokadama i sudskim sporovima. Rešavamo sve obaveze prema bankama i dobavljačima.", slug: "preuzimanje-firmi" },
+  { title: "Prodaja firmi", description: "Profesionalna prodaja vaše firme po optimalnoj ceni. Kompletna priprema dokumentacije i pronalazak kupca.", slug: "prodaja-firmi" },
   { title: "Kupovina firmi", description: "Strateška kupovina firmi u regionu i EU. Due diligence, pravna analiza i kompletna akvizicija.", slug: "kupovina-firmi" },
-  { title: "Osnivanje firmi u EU", description: "Osnivanje novih kompanija u Njemačkoj, Austriji i drugim EU zemljama sa svim regulatornim zahtjevima.", slug: "osnivanje-firmi-eu" },
+  { title: "Osnivanje firmi u EU", description: "Osnivanje novih kompanija u Nemačkoj, Austriji i drugim EU zemljama sa svim regulatornim zahtjevima.", slug: "osnivanje-firmi-eu" },
   { title: "Preuzimanje firmi u EU", description: "Preuzimanje postojećih firmi u Evropskoj uniji sa kompletnom pravnom i finansijskom dokumentacijom.", slug: "preuzimanje-firmi-eu" },
 ];
 
@@ -18,7 +18,7 @@ const Services = () => {
           <AnimatedSection>
             <p className="text-xs font-medium tracking-[0.3em] uppercase text-muted-foreground mb-6">Usluge</p>
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground leading-tight mb-8">
-              Kompletna rješenja
+              Kompletna rešenja
               <br />
               <span className="text-gradient">za vaš biznis.</span>
             </h1>

@@ -6,11 +6,11 @@ import CTA from "@/components/CTA";
 const categories = ["Sve", "Preuzimanje", "Prodaja", "Restrukturiranje"];
 
 const caseStudies = [
-  { title: "Proizvodna firma, Srbija", problem: "Firma u blokadi 3 godine sa dugom od €2.4M prema bankama i dobavljačima.", outcome: "Kompletno riješena sva dugovanja u roku od 21 dan. Firma ponovo operativna.", category: "Preuzimanje" },
-  { title: "IT kompanija, Hrvatska", problem: "Vlasnik želio prodati firmu ali bez kupaca na tržištu.", outcome: "Pronađen strateški kupac iz Njemačke. Transakcija zaključena za €1.8M.", category: "Prodaja" },
-  { title: "Građevinska firma, BiH", problem: "Kompleksna struktura dugova prema 12 različitih povjerilaca.", outcome: "Restrukturiran dug, postignut dogovor sa svim povjeriocima. Ušteda od 40%.", category: "Restrukturiranje" },
-  { title: "Trgovačko društvo, Crna Gora", problem: "Blokada računa i prijetnja stečajem sa 45 zaposlenih.", outcome: "Preuzeta firma, riješeni dugovi, sačuvano 38 radnih mjesta.", category: "Preuzimanje" },
-  { title: "Logistička firma, Slovenija", problem: "Vlasnik u penziji, nema nasljednika, firma profitabilna.", outcome: "Uspješna prodaja lokalnom konkurentu uz zadržavanje svih zaposlenih.", category: "Prodaja" },
+  { title: "Proizvodna firma, Srbija", problem: "Firma u blokadi 3 godine sa dugom od €2.4M prema bankama i dobavljačima.", outcome: "Kompletno rešena sva dugovanja u roku od 21 dan. Firma ponovo operativna.", category: "Preuzimanje" },
+  { title: "IT kompanija, Hrvatska", problem: "Vlasnik želeo prodati firmu ali bez kupaca na tržištu.", outcome: "Pronađen strateški kupac iz Nemačke. Transakcija zaključena za €1.8M.", category: "Prodaja" },
+  { title: "Građevinska firma, BiH", problem: "Kompleksna struktura dugova prema 12 različitih poverilaca.", outcome: "Restrukturiran dug, postignut dogovor sa svim poveriocima. Ušteda od 40%.", category: "Restrukturiranje" },
+  { title: "Trgovačko društvo, Crna Gora", problem: "Blokada računa i pretnja stečajem sa 45 zaposlenih.", outcome: "Preuzeta firma, rešeni dugovi, sačuvano 38 radnih mesta.", category: "Preuzimanje" },
+  { title: "Logistička firma, Slovenija", problem: "Vlasnik u penziji, nema naslednika, firma profitabilna.", outcome: "Uspešna prodaja lokalnom konkurentu uz zadržavanje svih zaposlenih.", category: "Prodaja" },
   { title: "Hotelski kompleks, Makedonija", problem: "Dugovi prema banci i blokiran razvoj novog krila hotela.", outcome: "Restrukturiran kredit, osigurano novo finansiranje, projekat nastavljen.", category: "Restrukturiranje" },
 ];
 

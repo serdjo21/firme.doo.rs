@@ -19,7 +19,7 @@ const services: Service[] = [
   {
     title: "Prodaja firmi",
     description:
-      "Profesionalna prodaja vaše firme po optimalnoj cijeni na tržištu.",
+      "Profesionalna prodaja vaše firme po optimalnoj ceni na tržištu.",
     slug: "prodaja-firmi",
   },
   {
@@ -48,7 +48,7 @@ const territories: string[] = [
   "Makedonija",
   "Hrvatska",
   "Slovenija",
-  "Njemačka",
+  "Nemačka",
   "Austrija",
 ];
 
@@ -80,22 +80,22 @@ const Index = () => {
                 </p>
 
                 <h2 className="text-5xl md:text-7xl font-semibold tracking-tight leading-[1.05]">
-                  Fokus na rješavanje
+                  Fokus na rešavanje
                   <br />
                   <span className="text-gradient">
-                    cjelokupnih zaduženja
+                    celokupnih zaduženja
                   </span>
                 </h2>
 
                 <div className="space-y-6 mt-8">
                   <p className="text-muted-foreground leading-relaxed">
-                    Specijalizirani smo za preuzimanje firmi u blokadi,
-                    rješavanje dugova i restrukturiranje poslovanja.
+                    Specijalozovani smo za preuzimanje firmi u blokadi,
+                    rešavanje dugova i restrukturiranje poslovanja.
                   </p>
 
                   <p className="text-muted-foreground leading-relaxed">
                     Diskretno, profesionalno i brzo — naš tim omogućava
-                    rješenja čak i u kompleksnim situacijama.
+                    rešenja čak i u kompleksnim situacijama.
                   </p>
                 </div>
               </div>
@@ -166,7 +166,7 @@ const Index = () => {
               </p>
 
               <h2 className="text-5xl md:text-7xl font-semibold tracking-tight">
-                Gdje djelujemo
+                Gde delujemo
               </h2>
             </div>
           </AnimatedSection>

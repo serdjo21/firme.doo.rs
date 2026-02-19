@@ -41,7 +41,7 @@ const Footer = () => {
               <img src="/logo.png" alt="Logo" className="h-30 w-140"/>
             </Link>
             <p className="text-sm text-muted-foreground mt-4 leading-relaxed">
-              Profesionalno rješavanje poslovnih izazova u regionu i Evropskoj uniji.
+              Profesionalno rešavanje poslovnih izazova u regionu i Evropskoj uniji.
             </p>
           </div>
 
@@ -70,7 +70,7 @@ const Footer = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-text-tertiary">
-            © {new Date().getFullYear()} FirmaGroup. Sva prava zadržana.
+            © {new Date().getFullYear()} FirmeDooRs. Sva prava zadržana.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-xs text-text-tertiary hover:text-foreground transition-colors">
